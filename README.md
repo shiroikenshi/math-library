@@ -7,51 +7,51 @@ A simple math library for performing arithmetic operations, complex number opera
 You can install the math-library package using pip:
 
 ```terminal
-pip install math-library
+pip install git+https://github.com/shiroikenshi/math-library.git
 ```
 
 ## Usage
 
 ```python
-import math_library
+import math-library
 
 # Example usage of arithmetic operations
-result_addition = math_library.add(3, 5)
-result_subtraction = math_library.subtract(10, 4)
-result_multiplication = math_library.multiply(2, 6)
-result_division = math_library.divide(8, 2)
+result_addition = math-library.add(3, 5)
+result_subtraction = math-library.subtract(10, 4)
+result_multiplication = math-library.multiply(2, 6)
+result_division = math-library.divide(8, 2)
 
 # Example usage of complex numbers
-complex_num1 = math_library.ComplexNumber(3, 2)
-complex_num2 = math_library.ComplexNumber(1, -1)
+complex_num1 = math-library.ComplexNumber(3, 2)
+complex_num2 = math-library.ComplexNumber(1, -1)
 result_complex_addition = complex_num1 + complex_num2
 result_complex_subtraction = complex_num1 - complex_num2
 result_complex_multiplication = complex_num1 * complex_num2
 result_complex_division = complex_num1 / complex_num2
 
 # Example usage of mathematical functions
-result_sin = math_library.sin(math.pi/2)
-result_cos = math_library.cos(math.pi)
-result_tan = math_library.tan(math.pi/4)
-result_log = math_library.log(10, 2)
-result_exp = math_library.exp(2)
+result_sin = math-library.sin(math.pi/2)
+result_cos = math-library.cos(math.pi)
+result_tan = math-library.tan(math.pi/4)
+result_log = math-library.log(10, 2)
+result_exp = math-library.exp(2)
 
 # Example usage of linear algebra functions
 vector1 = [1, 2, 3]
 vector2 = [4, 5, 6]
-result_dot_product = math_library.dot_product(vector1, vector2)
-result_cross_product = math_library.cross_product(vector1, vector2)
+result_dot_product = math-library.dot_product(vector1, vector2)
+result_cross_product = math-library.cross_product(vector1, vector2)
 
 # Example usage of geometry functions
-result_area_square = math_library.area_square(5)
-result_perimeter_square = math_library.perimeter_square(5)
+result_area_square = math-library.area_square(5)
+result_perimeter_square = math-library.perimeter_square(5)
 
 # Example usage of statistics functions
 data = [1, 2, 3, 4, 5]
-result_mean = math_library.mean(data)
-result_median = math_library.median(data)
-result_mode = math_library.mode(data)
-result_std_deviation = math_library.standard_deviation(data)
+result_mean = math-library.mean(data)
+result_median = math-library.median(data)
+result_mode = math-library.mode(data)
+result_std_deviation = math-library.standard_deviation(data)
 ```
 
 ## Documentation
