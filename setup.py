@@ -1,4 +1,4 @@
-# setup.py
+# math_library/setup.py
 
 from setuptools import setup, find_packages
 
