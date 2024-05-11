@@ -7,7 +7,7 @@ A simple math library for performing arithmetic operations, complex number opera
 You can install the math_library package using pip:
 
 ```terminal
-pip install git+https://github.com/shiroikenshi/math_library.git
+pip install git+https://github.com/shiroikenshi/math-library-project.git
 ```
 
 ## Usage
