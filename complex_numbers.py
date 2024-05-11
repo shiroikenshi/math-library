@@ -1,4 +1,4 @@
-# math-library/complex_numbers.py
+# math_library/complex_numbers.py
 
 class ComplexNumber:
     def __init__(self, real, imag):

@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='math-library',
+    name='math_library',
     version='0.1',
     description='A simple math library',
     author='Felipe Pinto da Silva',

@@ -1,4 +1,4 @@
-# math-library/functions.py
+# math_library/functions.py
 
 import math
 

@@ -1,4 +1,4 @@
-# math-library/statistic_functions.py
+# math_library/statistic_functions.py
 
 def mean(numbers):
     """Calcula a média de uma lista de números."""

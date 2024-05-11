@@ -1,4 +1,4 @@
-# math-library/combinatorics.py
+# math_library/combinatorics.py
 
 def factorial(n):
     """Retorna o fatorial de n."""
