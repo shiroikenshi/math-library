@@ -4,10 +4,10 @@ A simple math library for performing arithmetic operations, complex number opera
 
 ## Installation
 
-You can install the math_library package using pip:
+You can install the math-library package using pip:
 
 ```terminal
-pip install math_library
+pip install math-library
 ```
 
 ## Usage
