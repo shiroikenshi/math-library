@@ -1,4 +1,4 @@
-# math_library/arithmetic.py
+# math-library-project/math_library/arithmetic.py
 
 def add(a, b):
     """Retorna a soma de dois números."""

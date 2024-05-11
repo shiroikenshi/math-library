@@ -1,4 +1,4 @@
-# tests/test_arithmetic.py
+# math-library-project/tests/test_arithmetic.py
 
 import sys
 import os

@@ -1,4 +1,4 @@
-# math_library/__init__.py
+# math-library-project/math_library/__init__.py
 
 from .arithmetic import *
 from .complex_numbers import *

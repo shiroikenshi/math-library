@@ -1,4 +1,4 @@
-# math_library/linear_algebra.py
+# math-library-project/math_library/linear_algebra.py
 
 import numpy as np
 

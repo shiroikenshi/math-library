@@ -1,4 +1,4 @@
-# math_library/geometry.py
+# math-library-project/math_library/geometry.py
 
 def area_square(side):
     """Calcula a área de um quadrado."""

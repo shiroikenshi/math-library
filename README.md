@@ -1,4 +1,4 @@
-# math_library
+# Math Library
 
 A simple math library for performing arithmetic operations, complex number operations, mathematical functions, linear algebra, geometry, and statistics.
 
