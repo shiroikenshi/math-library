@@ -1,3 +1,6 @@
+# <div align="center"><a href="/README.md">Portuguese</a> | <a href="/README_EN.md">English</a></div>
+<br><br>
+
 # Math Library
 
 A simple math library for performing arithmetic operations, complex number operations, mathematical functions, linear algebra, geometry, and statistics.
