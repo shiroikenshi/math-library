@@ -13,7 +13,7 @@ Você pode instalar o pacote math_library usando o pip:
 pip install git+https://github.com/shiroikenshi/math-library-project.git
 ```
 
-## Usage
+## Uso
 
 ```python
 import math_library
